@@ -1,0 +1,11 @@
+{
+  "name": "覆盖率调为 50%",
+  "settings": {
+    "coverage": 0.5
+  },
+  "checkpoint": {
+    "metric": "radius",
+    "expected": 2,
+    "absoluteTolerance": 1e-10
+  }
+}

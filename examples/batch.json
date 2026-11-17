@@ -1,0 +1,32 @@
+{
+  "title": "预测区间校准验收样本",
+  "settings": {
+    "coverage": 0.75
+  },
+  "rows": [
+    {
+      "id": "C1",
+      "part": "cal",
+      "prediction": 10,
+      "actual": 11
+    },
+    {
+      "id": "C2",
+      "part": "cal",
+      "prediction": 10,
+      "actual": 12
+    },
+    {
+      "id": "C3",
+      "part": "cal",
+      "prediction": 10,
+      "actual": 13
+    },
+    {
+      "id": "T1",
+      "part": "test",
+      "prediction": 12,
+      "actual": 15
+    }
+  ]
+}

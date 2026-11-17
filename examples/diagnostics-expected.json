@@ -1,0 +1,7 @@
+{
+  "metrics": {
+    "meanIntervalScore": 6,
+    "meanOutsidePenalty": 0
+  },
+  "tolerance": 1e-10
+}

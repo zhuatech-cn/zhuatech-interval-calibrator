@@ -1,0 +1,12 @@
+{
+  "metrics": {
+    "radius": 3,
+    "covered": 1,
+    "rank": 3
+  },
+  "row": {
+    "id": "T1",
+    "lower": 9,
+    "upper": 15
+  }
+}

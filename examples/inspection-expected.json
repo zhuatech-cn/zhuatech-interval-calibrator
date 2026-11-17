@@ -1,0 +1,11 @@
+{
+  "metrics": {
+    "below": 0,
+    "above": 0,
+    "maxOutside": 0
+  },
+  "row": {
+    "id": "T1",
+    "location": "inside"
+  }
+}
